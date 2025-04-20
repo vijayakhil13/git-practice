@@ -16,7 +16,7 @@ RUN npm run build
 
 # Install serve to serve the static files
 RUN npm install -g serve
-
+#ji
 # Expose the port
 EXPOSE 3000
 
